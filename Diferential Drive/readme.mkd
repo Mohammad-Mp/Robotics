@@ -2,7 +2,7 @@ This Repository
 -----------
 
 
-I will provide some material of the Diferential Drive Robot
+I will provide some material of the Diferential Drive Robot Model, Here I will put my simulations and codes
 
 1 - The DynamicModel_DiferentialDrive.slx is a Symulink archive that is using the Dynamic Model of a Diferential Drive, this Dinamic Model is done by using the *Lagrange Methodologie*, it was made based on the article _Dynamic Modelling of Differential-Drive Mobile Robots using Lagrange and Newton-Euler Methodologies: A Unified Framework_ of Rached Dhaouadi and Ahmad Abu Hatab.
 
